@@ -20,6 +20,8 @@ api_key.txt
 *.sas7butl
 *.sas7bput
 *.sas7bbak
+!a.sas7baud
+
 
 ### VisualStudioCode ###
 .vscode/*
